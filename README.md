@@ -3,7 +3,7 @@
 API RESTful desenvolvida por Geison Rodrigues para a Trilha Back-end do Projeto Multidisciplinar, implementando controle de pedidos multicanal (canalPedido), gestao de estoque por unidade, integracao simulada de pagamentos (mock), programa de fidelidade e controles de seguranca e privacidade exigidos pela LGPD.
 
 ## Links e Evidencias Obrigatorias
-- Repositorio Git Publico: https://github.com/GeisonRodrigues/raizes-nordeste-backend
+- Repositorio Git Publico: https://github.com/GeisonRodrigues/projeto-backend-raizes-nordeste
 - URL do Swagger Local: http://localhost:3000/api-docs (Rota: /api-docs)
 - Colecao Postman/Insomnia: Arquivo raizes_do_nordeste_postman_collection.json na raiz deste repositorio.
 
@@ -22,8 +22,8 @@ API RESTful desenvolvida por Geison Rodrigues para a Trilha Back-end do Projeto 
 ## Passo a Passo de Execucao
 
 1. Clonar o repositorio e instalar dependencias:
-   git clone https://github.com/GeisonRodrigues/raizes-nordeste-backend.git
-   cd raizes-nordeste-backend
+   git clone https://github.com/GeisonRodrigues/projeto-backend-raizes-nordeste.git
+   cd projeto-backend-raizes-nordeste
    npm install
 
 2. Configurar variaveis de ambiente:
